@@ -1,4 +1,4 @@
-http://isoftage.com/
+
 
 # casino
 1. Slot Kho bau
@@ -19,25 +19,3 @@ http://isoftage.com/
 16. Tien Len Mien Nam
 17. Lieng
 18. Xi To
-19. Tien Len Mien Nam Solo
-20. Sam Loc
-21. Bai Cao
-22. Mau Binh At
-23. Xoc Dia
-24. Co Tuong
-25. Co Up
-26. Ca ro
-27. Poker
-28. BlackJack
-
-#TODO
-29. Domino
-30. Co Ca Ngua
-31. Catte
-32. Phom
-34. U 8 La
-35. Co Vua
-36. Dao Vang
-37. Agar.io
-38. Keno
-39. Lo De
